@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/threats</content-type>
+	<display-template>/templates/web/threatstemplate.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cd34</objectGroupId>
+	<objectId>cd343944-f3bf-0d0e-8e32-83d755722d2f</objectId>
+	<file-name>cd343944-f3bf-0d0e-8e32-83d755722d2f.xml</file-name>
+	<folder-name/>
+	<internal-name>test</internal-name>
+	<createdDate>2023-08-21T18:11:51.080Z</createdDate>
+	<createdDate_dt>2023-08-21T18:11:51.080Z</createdDate_dt>
+	<lastModifiedDate>2023-08-21T18:11:51.080Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-08-21T18:11:51.080Z</lastModifiedDate_dt>
+</component>
