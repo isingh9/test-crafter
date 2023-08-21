@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<savedAsDraft>true</savedAsDraft>
 	<content-type>/component/post</content-type>
 	<display-template/>
 	<no-template-required/>
@@ -15,6 +14,10 @@
 	<value>Joe Bloggs (Guest)</value>
 	<include>/site/items/authors/150a8781-76fc-4fca-b9a3-eefa4eefafb4.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="author_components">	<key>/site/items/authors/3b79ac1a-5a37-ab72-a0d6-080500840c09.xml</key>
+	<value>inder</value>
+	<include>/site/items/authors/3b79ac1a-5a37-ab72-a0d6-080500840c09.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></authors_o>
 	<featuredImage_s>/static-assets/images/featured/camera.jpg</featuredImage_s>
 	<categories_o>	<item>	<key>technology</key>
@@ -26,8 +29,8 @@
 	<body_html>&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Sed posuere consectetur est at lobortis. Donec sed odio dui.&lt;/p&gt;</body_html>
 	<createdDate>2021-03-11T16:25:0.000Z</createdDate>
 	<createdDate_dt>2021-03-11T16:25:0.000Z</createdDate_dt>
-	<lastModifiedDate>2023-08-21T16:11:09.532Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-08-21T16:11:09.532Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-08-21T16:21:29.122Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-08-21T16:21:29.122Z</lastModifiedDate_dt>
 	<expired_dt>2024-08-21T16:11:09.000Z</expired_dt>
 	<folder-name/>
 	<expired_dt_tz>America/Toronto</expired_dt_tz>
