@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
+	<savedAsDraft>true</savedAsDraft>
 	<content-type>/component/post</content-type>
 	<display-template/>
 	<no-template-required>true</no-template-required>
@@ -26,11 +27,11 @@
 	<tags_o>	<item>	<key>gadgets</key>
 	<value_smv>Gadgets</value_smv>
 	</item></tags_o>
-	<body_html>&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Update more updates -- more and more&lt;br /&gt;&lt;/p&gt;</body_html>
+	<body_html>&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Sed posuere consectetur est at lobortis. Donec sed odio dui. Update more updates -- more and more.....&lt;br /&gt;&lt;/p&gt;</body_html>
 	<createdDate>2021-03-11T16:25:0.000Z</createdDate>
 	<createdDate_dt>2021-03-11T16:25:0.000Z</createdDate_dt>
-	<lastModifiedDate>2023-08-22T12:52:36.453Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-08-22T12:52:36.453Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-08-22T12:54:12.587Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-08-22T12:54:12.587Z</lastModifiedDate_dt>
 	<expired_dt>2024-08-21T16:11:09.000Z</expired_dt>
 	<folder-name/>
 	<expired_dt_tz>America/Toronto</expired_dt_tz>
