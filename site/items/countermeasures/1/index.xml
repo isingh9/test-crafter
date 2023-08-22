@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/countermeasures</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ff95</objectGroupId>
+	<objectId>ff95f0f0-d279-daa9-ea9b-71dc918c9e6d</objectId>
+	<internal-name>1</internal-name>
+	<navLabel>Testing</navLabel>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>0</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>1</folder-name>
+	<createdDate>2023-08-22T16:11:04.943Z</createdDate>
+	<createdDate_dt>2023-08-22T16:11:04.943Z</createdDate_dt>
+	<lastModifiedDate>2023-08-22T16:11:04.943Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-08-22T16:11:04.943Z</lastModifiedDate_dt>
+</page>
