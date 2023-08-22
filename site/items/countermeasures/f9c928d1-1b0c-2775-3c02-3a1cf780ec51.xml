@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/threats</content-type>
+	<display-template>/templates/web/threatstemplate.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f9c9</objectGroupId>
+	<objectId>f9c928d1-1b0c-2775-3c02-3a1cf780ec51</objectId>
+	<file-name>f9c928d1-1b0c-2775-3c02-3a1cf780ec51.xml</file-name>
+	<folder-name/>
+	<internal-name>Threat1</internal-name>
+	<createdDate>2023-08-22T16:12:14.154Z</createdDate>
+	<createdDate_dt>2023-08-22T16:12:14.154Z</createdDate_dt>
+	<lastModifiedDate>2023-08-22T16:12:14.154Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-08-22T16:12:14.154Z</lastModifiedDate_dt>
+	<created_to>16:12:14</created_to>
+	<created_to_tz>America/Toronto</created_to_tz>
+</component>
